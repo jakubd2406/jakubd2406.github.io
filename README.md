@@ -1,6 +1,4 @@
-# Jakub Dysko — Redesigned Portfolio Website
-
-A redesigned, responsive version of the existing personal portfolio. It retains the original five pages and the portfolio's information, photographs, projects, links and downloadable documents.
+# Jakub Dysko — Portfolio Website
 
 ## View the website
 
