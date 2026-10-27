@@ -14,19 +14,6 @@ python3 -m http.server 8000
 
 Then open http://localhost:8000.
 
-## What's changed
-
-- Modern dark/navy header and hero with a teal accent, high-contrast typography, clean white content sections and consistent card layouts.
-- Five responsive pages: Home, About, Projects, Experience and Contact.
-- Featured project and 4 project cards, original project photos, original project descriptions and project links.
-- Sitewide links, interests and core skills retained and presented in a dedicated section.
-- Keyboard-accessible mobile navigation, reduced-motion support, visible keyboard focus and a skip link.
-- Existing photographs optimised for much smaller file sizes while preserving their appearance.
-- Relative asset paths corrected: the HTML now points to the included `style/`, `images/` and `docs/` directories.
-- The Experience page's internship documentation link now references the supplied PDF because the original `.docx` target was not included.
-
-All original portfolio wording has been retained, including any spelling or grammar quirks; it has **not** been fact-checked or silently rewritten. The original site's design attribution remains in the footer. No external JavaScript libraries, fonts, APIs, analytics or trackers are required.
-
 ## Site structure
 
 ```text
